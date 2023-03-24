@@ -4,6 +4,8 @@
 
 이 프로젝트는 <https://nomadcoders.co/react-masterclass> 의 강의를 수강하면서 만드는 프로젝트이다.
 
+Cointracker 앱만 따로 분리해서 리포지토리로 만들었다. 
+
 ---
 
 ## 목차
